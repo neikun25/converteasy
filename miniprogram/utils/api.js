@@ -7,12 +7,12 @@ const { sleep } = require('./common');
 
 // 云托管配置
 const CLOUD_CONFIG = {
-  env: "prod-2gyfay7ve535c92a",
-  serviceName: "convert"
+  env: "convert-easy-9gy01nt7e03d9579",
+  serviceName: "convert-easy"
 };
 
 // 公网域名（用于替换 localhost）
-const PUBLIC_BASE_URL = "https://convert-200072-6-1321764604.sh.run.tcloudbase.com";
+const PUBLIC_BASE_URL = "https://convert-easy-203720-5-1389303207.sh.run.tcloudbase.com";
 
 /**
  * 获取 API 基础地址（用于 HTTP 请求）

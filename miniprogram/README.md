@@ -82,9 +82,11 @@ miniprogram/
 
 ### 云托管配置
 
-- **环境 ID**: `prod-2gyfay7ve535c92a`
-- **服务名称**: `convert`
-- **公网域名**: `https://convert-200072-6-1321764604.sh.run.tcloudbase.com`
+- **环境 ID**: `convert-easy-9gy01nt7e03d9579`
+- **服务名称**: `convert-easy`
+- **公网域名**: `https://convert-easy-203720-5-1389303207.sh.run.tcloudbase.com`
+
+> 详细配置说明请查看 [CLOUD_CONFIG.md](./CLOUD_CONFIG.md)
 
 ---
 
